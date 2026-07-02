@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivaniGholap25
 - 👀 I’m interested in ML and dSA
-- 🌱 I’m currently learning THIRD YEAR AIML at DYPCET
+- 🌱 I’m currently learning FINAL YEAR AIML at DYPCET
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me (my mail-shivanigholap9021@gmail.com)
 
